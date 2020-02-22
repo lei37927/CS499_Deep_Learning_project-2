@@ -7,7 +7,7 @@ In this project our goal is to implement K-Fold cross-validation, then use it wi
 See our implementation of two algorithms using R language in [this file](Project2.R).
 
 #### Gradient Descent Algorithm
-You can also see our implementation of Gradient Descent Algorithm using R language [here](GradientDescent.R).
+You can also see our implementation of Gradient Descent Algorithm using R language [here](https://github.com/lei37927/CS499_Deep_Learning_Project-1/blob/master/GradientDescent.R).
 
 ## How to run it
 ### 1 Environment Configuration
