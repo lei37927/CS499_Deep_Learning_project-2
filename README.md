@@ -6,6 +6,9 @@ In this project our goal is to implement K-Fold cross-validation, then use it wi
 #### KFoldCV algorithm and NearestNeighborsCV
 See our implementation of two algorithms using R language in [this file](Project2.R).
 
+#### Gradient Descent Algorithm
+You can also see our implementation of Gradient Descent Algorithm using R language [here](GradientDescent.R).
+
 ## How to run it
 ### 1 Environment Configuration
 #### 1.1 Install R
