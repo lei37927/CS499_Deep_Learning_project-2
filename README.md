@@ -1,7 +1,7 @@
 # CS499_Deep_Learning_Project-2
 
 ## Project Description
-In this project our goal is to implement the gradient descent algorithm for learning a logistic regression model, and then use it with early stopping regularization to make predictions on several real data sets.
+In this project our goal is to implement K-Fold cross-validation, then use it with machine learning algorithms to (1) train hyper-parameters and (2) compare prediction accuracy.
 
 #### KFoldCV algorithm and NearestNeighborsCV
 See our implementation of two algorithms using R language in [this file](Project2.R).
