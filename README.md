@@ -46,7 +46,7 @@ Open Project2.R, then click the 'run' button in the file section (not the whole 
 Maybe you need to wait for a while to train and load. When the console in the bottom left corner is running, please do not load new commands.
 
 ## About
-This is our first group project of CS499 Deep Learning course in Spring 2020 at [NAU](https://nau.edu/)
+This is our second group project of CS499 Deep Learning course in Spring 2020 at [NAU](https://nau.edu/)
 
 ### Project Requirements
 You can find the requirements for this project [here](https://github.com/tdhock/cs499-spring2020/blob/master/projects/2.org)
